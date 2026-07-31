@@ -69,7 +69,7 @@ To become a Software Engineer building impactful AI products.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,mysql,sqlite,firebase,git,github,postman,vscode,antigravity" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,mysql,sqlite,firebase,git,github,postman,vscode,anti-gravity" />
 
 </p>
 
