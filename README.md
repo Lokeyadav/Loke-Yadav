@@ -37,7 +37,7 @@
 
 📫 Reach me
 
-**your_email@gmail.com**
+**lokeshg292003@gmail.com**
 
 ---
 
@@ -45,7 +45,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/lokesh-yadav-a69608258/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -53,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:lokeshg292003@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -65,7 +65,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mongodb,mysql,git,github,vscode,flutter,firebase,nodejs,express,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react js,mongodb,mysql,git,github,vscode,AntiGravity,firebase,nodejs,express,postman" />
 
 </p>
 
