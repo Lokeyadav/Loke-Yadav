@@ -1,60 +1,64 @@
-
 <div align="center">
 
-# Hi 👋, I'm Lokesh Yadav
+# 👋 Hi, I'm Lokesh Yadav
 
-### Computer Science Engineer | Python Developer | AI Enthusiast | Software Engineer
+### 🚀 Software Engineer | Python Developer | AI Enthusiast | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+Application+Developer;Software+Engineer;Full+Stack+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=38BDF8&lines=Software+Engineer;Python+Developer;AI+Application+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG"/>
+
+<p>
+  <a href="https://github.com/Lokeyadav">
+    <img src="https://komarev.com/ghpvc/?username=Lokeyadav&style=for-the-badge&color=0e75b6" />
+  </a>
+  <a href="https://github.com/Lokeyadav?tab=followers">
+    <img src="https://img.shields.io/github/followers/Lokeyadav?style=for-the-badge" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+# 👨‍💻 About Me
 
-## 👨‍💻 About Me
+🎓 **B.E. Computer Science Engineering (2026)**
 
-🎓 Computer Science Engineering Graduate (2026)
+💻 Passionate about building scalable software and AI-powered applications.
 
-💻 Passionate about Software Development & AI
+🤖 Currently developing intelligent desktop applications using Python.
 
-🤖 Building AI-powered Desktop Applications
-
-🌱 Currently learning
+🌱 **Currently Learning**
 
 - Advanced Python
 - Data Structures & Algorithms
-- System Design
 - Backend Development
+- System Design
+- AI Engineering
 
-🚀 Interested in
+🎯 **Career Goal**
 
-- Artificial Intelligence
-- Machine Learning
-- Software Engineering
-- Full Stack Development
+To become a Software Engineer building impactful AI products.
 
-📫 Reach me
+📫 **Email**
 
 **lokeshg292003@gmail.com**
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/lokesh-yadav-a69608258/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/lokesh-yadav-a69608258/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://github.com/Lokeyadav">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/Lokeyadav" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 <a href="mailto:lokeshg292003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
@@ -65,7 +69,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react js,mongodb,mysql,git,github,vscode,AntiGravity,firebase,nodejs,express,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,mysql,flutter,firebase,git,github,postman,vscode" />
 
 </p>
 
@@ -73,49 +77,29 @@
 
 # 🚀 Featured Projects
 
-### 🤖 N.O.V.A AI Voice Assistant
-
-AI-powered Desktop Assistant built using
-
-- Python
-- Vosk Speech Recognition
-- OpenRouter
-- SerpAPI
-- PyAutoGUI
-- Automation
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 **N.O.V.A AI Voice Assistant** | AI-powered desktop assistant with voice automation, web search, desktop control, and AI chat. | Python, Vosk, OpenRouter, PyAutoGUI |
+| 🌍 **AI Travel Assistant** | Smart travel planner with weather, maps, hotels, flights, and voice interaction. | Flutter, Firebase, Google Maps |
+| 🎓 **Campus Event Management System** | Full-stack platform for event registration and administration. | MERN Stack |
 
 ---
 
-### 🌍 AI Travel Assistant
+## 📌 Repository Links
 
-Features
-
-- Voice Assistant
-- Weather API
-- Google Maps
-- Hotel Search
-- Flight Search
-- Dark Mode
-- Modern UI
+- 🤖 https://github.com/Lokeyadav/YOUR_REPO_NAME
+- 🌍 https://github.com/Lokeyadav/YOUR_REPO_NAME
+- 🎓 https://github.com/Lokeyadav/YOUR_REPO_NAME
 
 ---
 
-### 💼 Campus Event Management System
-
-- Student Registration
-- Event Creation
-- Database Integration
-- Admin Dashboard
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lokeyadav&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lokeyadav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeyadav&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeyadav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -125,7 +109,7 @@ Features
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lokeyadav&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Lokeyadav&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -145,43 +129,7 @@ Features
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lokeyadav&theme=tokyonight&column=4"/>
-
-</p>
-
----
-
-# 🛠 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lokeyadav&theme=algolia&no-frame=true&column=4&margin-w=15"/>
 
 </p>
 
@@ -193,24 +141,44 @@ Features
 
 ✅ Algorithms
 
+✅ Backend Development
+
 ✅ System Design
 
-✅ AI Engineering
-
-✅ Backend Development
+✅ Artificial Intelligence
 
 ---
 
-# ⚡ Quote
+# 💡 Core Skills
 
-> "Code. Learn. Build. Repeat."
+- Python Programming
+- Object-Oriented Programming
+- REST API Development
+- MongoDB & MySQL
+- Git & GitHub
+- Backend Development
+- Artificial Intelligence
+- Problem Solving
+
+---
+
+# 💻 Coding Profiles
+
+- GitHub: https://github.com/Lokeyadav
+- LinkedIn: https://www.linkedin.com/in/lokesh-yadav-a69608258/
+
+---
+
+# 💬 Favorite Quote
+
+> *"Turning ideas into software through Python, AI, and continuous learning."*
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Lokeyadav&label=Profile+Views&color=blue&style=for-the-badge"/>
+If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
